@@ -27,7 +27,11 @@ const Header = () => {
             <div class="col-xl-2 col-lg-2 col-md-3 d-flex align-items-center">
               <div class="logo">
                 <a href="/">
+<<<<<<< HEAD
                   <img src="img/logo/brand.png" alt="" />
+=======
+                  <img src="img/logo/blx.png" alt="" width={120} height={50} />
+>>>>>>> 8715f7d6db4cb101a1a7085db6d9aa5a3f4331e8
                 </a>
               </div>
             </div>
