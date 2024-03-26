@@ -42,7 +42,7 @@ const Footer = () => {
                 <div class="footer-head">
                   <div class="footer-logo">
                     <a href="#">
-                      <img src="img/logo/blx.png" alt=""  width={140} height={70}/>
+                      <img src="img/logo/brand.png" alt="" />
                     </a>
                   </div>
                   <div class="footer-icons">
